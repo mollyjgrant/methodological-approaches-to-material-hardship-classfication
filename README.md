@@ -4,7 +4,7 @@ This repository serves as research archive for a paper in my PhD thesis titled '
 
 This paper can be cited as: Grant, M., Meissel, K., & Exeter, D. (In Press). Examining Approaches to Material Hardship Classification: Cross-sectional and Longitudinal Perspectives. _Social Sciences and Humanities Open_
 
-Techniques include: Exploratory Factor Analysis (EFA), Measurement Invariance (MI), Latent Class Analysis (LCA), Tetrachoric correlations, Cronbach Alpha. 
+Techniques include: Exploratory Factor Analysis (EFA), Latent Class Analysis (LCA), Tetrachoric correlations, Cronbach Alpha. 
 
 Data are not included.
 
