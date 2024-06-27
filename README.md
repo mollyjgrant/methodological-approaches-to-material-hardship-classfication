@@ -1,6 +1,6 @@
 # methodological-approaches-to-material-hardship-classfication
 
-This repository serves as research archive for a paper in my PhD thesis titled 'Examining Approaches to Material Hardship Classification: Cross-sectional and Longitudinal Perspectives' by Molly Grant. This paper was written in collaboration with my PhD supervisors, Kane Meissel and Dan Exeter. 
+This repository serves as research archive for a paper in my PhD thesis titled 'Examining Approaches to Material Hardship Classification: Cross-sectional and Longitudinal Perspectives' by Molly Grant. This paper was written in collaboration with my PhD supervisors, Kane Meissel and Dan Exeter.
 
 This paper can be cited as: Grant, M., Meissel, K., & Exeter, D. (2024). Examining Approaches to Material Hardship Classification: Cross-sectional and Longitudinal Perspectives. _Social Sciences and Humanities Open_, 10, 100931.
 
